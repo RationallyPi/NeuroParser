@@ -8,6 +8,6 @@ python parse2.py simplewiki-latest-pages-articles.xml.bz1
 Parse2.py  is  the  latest one
 Parse_dump_claude is the outdated parser, can check it out too
 
-use this for the Supabase database url
+use this for the Supabase database url inside the .env
 
 DATABASE_URL="postgresql://postgres.kwtbdirovzuxffpvkfav:AIPROJECTFORMARKS@aws-1-ap-south-1.pooler.supabase.com:6543/postgres?sslmode=require"
