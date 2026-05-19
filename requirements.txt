@@ -1,0 +1,13 @@
+attrs==26.1.0
+docopt==0.6.2
+jsonable==0.3.1
+jsonschema==4.26.0
+jsonschema-specifications==2025.9.1
+mwcli==0.0.3
+mwparserfromhell==0.7.2
+mwtypes==0.4.0
+mwxml==0.3.8
+para==0.0.8
+psycopg2-binary==2.9.12
+referencing==0.37.0
+rpds-py==0.30.0
